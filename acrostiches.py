@@ -18,7 +18,7 @@ adjectifs = {
 	"O": ["Optimiste", "Original.e"],
 	"P": ["Parfait.e", "Propre", "Purifié.e" ],
 	"Q": ["Qualitatif.ve", "Qomique"],
-	"R": ["Responsable", "Raisonnable"],
+	"R": ["Responsable", "Raisonnable", "Rigolot.e"],
 	"S": ["Super", "Sympa", "Salvateur.trice"],
 	"T": ["Triste", "Terrifiant.e", "Torturé.e", "Taquin.e", "Trivial.e"],
 	"U": ["Unique", "Utopiste",],
